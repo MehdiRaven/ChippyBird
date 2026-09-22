@@ -271,11 +271,49 @@ Different soundtrack.
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-Explore the different worlds and gameplay experiences of Chippy Bird.
+Explore the worlds, gameplay modes, and interface of Chippy Bird.
 
-> 📸 Screenshots will be added to this section.
+---
+
+### 🎨 Game Themes
+
+Each theme brings its own visual atmosphere and dedicated soundtrack.
+
+<div align="center">
+
+<img src="screenshots/day.jpg" width="250"/>
+<img src="screenshots/neon-night.jpg" width="250"/>
+<img src="screenshots/candy-world.jpg" width="250"/>
+
+</div>
+
+---
+
+### 🎮 Game Modes
+
+Experience different gameplay styles, from special abilities to intense challenge modes.
+
+<div align="center">
+
+<img src="screenshots/power.jpg" width="250"/>
+<img src="screenshots/challenge.jpg" width="250"/>
+
+</div>
+
+---
+
+### 🏠 Menu & Settings
+
+Navigate through the game and customize your experience.
+
+<div align="center">
+
+<img src="screenshots/menu.jpg" width="250"/>
+<img src="screenshots/setting.jpg" width="250"/>
+
+</div>
 
 ---
 
